@@ -1,7 +1,11 @@
 .App {
   text-align: center;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+  
+  font-family: 'Poppins', sans-serif;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +39,51 @@
   to {
     transform: rotate(360deg);
   }
+}
+/* ------------------------------ */
+.hero-text{
+text-align: center;
+margin-top: 18rem;
+color: white;
+
+/* position: absolute;
+top: 55%;
+left:50%;
+transform: translate(-50%,-50%);
+width: 100%; */
+}
+
+.hero-text h1{
+   font-size: 3rem;
+   font-weight: 800;
+   /* background: #ffff; */
+   /* -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent; */
+}
+
+.hero-text p{
+  font-size: 1.3rem;
+  /* color: #ffff; */
+  padding: 0.5rem 0 2rem 0;
+
+  /* background: #ffff; */
+  /* -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+}
+
+.hero-text .show{
+  text-decoration: none;
+  background-color: white;
+  padding: 1rem 2rem;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: black;
+}
+.hero img{
+  height: 100vh;
+}
+.heroine img{
+  height: 520px;
 }
