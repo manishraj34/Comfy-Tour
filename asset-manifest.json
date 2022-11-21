@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/comfy-tour/static/css/main.2d9b7d04.css",
+    "main.js": "/comfy-tour/static/js/main.8fe96c54.js",
+    "static/js/787.0e14dc39.chunk.js": "/comfy-tour/static/js/787.0e14dc39.chunk.js",
+    "static/media/3.jpg": "/comfy-tour/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/comfy-tour/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/comfy-tour/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/12.jpg": "/comfy-tour/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/img.jpg": "/comfy-tour/static/media/img.4e05635750afada848c3.jpg",
+    "static/media/9.jpg": "/comfy-tour/static/media/9.38f6e89ddfed54feaf50.jpg",
+    "static/media/5.jpg": "/comfy-tour/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/6.jpg": "/comfy-tour/static/media/6.c405c8228d51cdef5d0f.jpg",
+    "static/media/4.jpg": "/comfy-tour/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "static/media/night.jpg": "/comfy-tour/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/comfy-tour/index.html",
+    "main.2d9b7d04.css.map": "/comfy-tour/static/css/main.2d9b7d04.css.map",
+    "main.8fe96c54.js.map": "/comfy-tour/static/js/main.8fe96c54.js.map",
+    "787.0e14dc39.chunk.js.map": "/comfy-tour/static/js/787.0e14dc39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d9b7d04.css",
+    "static/js/main.8fe96c54.js"
+  ]
+}
