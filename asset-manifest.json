@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/comfy-tour/static/css/main.2d9b7d04.css",
-    "main.js": "/comfy-tour/static/js/main.8fe96c54.js",
+    "main.js": "/comfy-tour/static/js/main.90459462.js",
     "static/js/787.0e14dc39.chunk.js": "/comfy-tour/static/js/787.0e14dc39.chunk.js",
     "static/media/3.jpg": "/comfy-tour/static/media/3.84d5235cc693e15661d6.jpg",
     "static/media/2.jpg": "/comfy-tour/static/media/2.bbb41348bb839b9124d8.jpg",
@@ -15,11 +15,11 @@
     "static/media/night.jpg": "/comfy-tour/static/media/night.ac6d287d5d0014553b87.jpg",
     "index.html": "/comfy-tour/index.html",
     "main.2d9b7d04.css.map": "/comfy-tour/static/css/main.2d9b7d04.css.map",
-    "main.8fe96c54.js.map": "/comfy-tour/static/js/main.8fe96c54.js.map",
+    "main.90459462.js.map": "/comfy-tour/static/js/main.90459462.js.map",
     "787.0e14dc39.chunk.js.map": "/comfy-tour/static/js/787.0e14dc39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d9b7d04.css",
-    "static/js/main.8fe96c54.js"
+    "static/js/main.90459462.js"
   ]
 }
